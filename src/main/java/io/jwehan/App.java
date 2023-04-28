@@ -22,6 +22,6 @@ public class App {
                 System.out.print("작가 : ");
                 String authorName = sc.nextLine();
             }
-        }
+        } 
     }
 }
